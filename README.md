@@ -15,7 +15,9 @@
 ## 👨‍💻 About Me
 
 💼 Software Engineer specializing in **Spring Boot Microservices** and **AWS Cloud Architecture**
+
 🚀 Experienced in building **scalable backend systems** and optimizing **high-performance APIs**
+
 🌱 Currently exploring **System Design**, **DSA**, and **Artificial Intelligence**
 
 ---
