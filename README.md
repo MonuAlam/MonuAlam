@@ -2,13 +2,14 @@
 
 # 👋 Hi, I'm Monu Alam
 
-**Software Engineer | Java Backend Developer  | Microservices**
+**Software Engineer | Java Backend Developer | Microservices**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monualam/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monualam.edu@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://monuportfolio.vercel.app/)
 
 </div>
+
 ---
 
 ## 👨‍💻 About Me
@@ -16,6 +17,7 @@
 🔭 Backend Engineer specializing in **Spring Boot Microservices** and **AWS Cloud Solutions**  
 ⚡ Passionate about building **scalable systems** and **high-performance APIs**  
 🌱 Currently exploring **System Design**, **DSA** and **Artificial Intelligence**
+
 ---
 
 ## 🛠️ Tech Stack
@@ -89,5 +91,40 @@
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
+---
 
+## 📊 GitHub Stats
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=tokyonight&hide_border=true&background=0D1117)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monualam/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monualam.edu@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://monuportfolio.vercel.app/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourgithubusername&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "First, solve the problem. Then, write the code." – John Johnson
+
+⭐ From [Monu Alam](https://github.com/yourgithubusername)
+
+</div>
