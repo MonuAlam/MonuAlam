@@ -9,7 +9,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://monuportfolio.vercel.app/)
 
 </div>
+---
 
+## 👨‍💻 About Me
+
+🔭 Backend Engineer specializing in **Spring Boot Microservices** and **AWS Cloud Solutions**  
+⚡ Passionate about building **scalable systems** and **high-performance APIs**  
+🌱 Currently exploring **System Design**, **DSA** and **Artificial Intelligence**
 ---
 
 ## 🛠️ Tech Stack
