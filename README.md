@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Monu Alam
 
-**Software Engineer | Java Backend Developer | Microservices**
+**Software Engineer | Java Backend Developer | Microservices | AWS**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monualam/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monualam.edu@gmail.com)
@@ -57,6 +57,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -92,39 +96,3 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monualam/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monualam.edu@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://monuportfolio.vercel.app/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourgithubusername&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "First, solve the problem. Then, write the code." – John Johnson
-
-⭐ From [Monu Alam](https://github.com/yourgithubusername)
-
-</div>
